@@ -1,6 +1,6 @@
-Dataset **Wind Turbines 3** can be downloaded in Supervisely format:
+Dataset **Wind Turbines (Overhead Imagery by Duke Dataplus2020)** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/x/D/6p/4pZUeB8ruNTokW6cwidVED2449D1HMX91QoTJP4CiHgLoWzHKvZ2dn4rBEb8kmV3h2RCiwsF7YaWcKFryONbwJ8Ip9EU8tIbhyLXp6P0s8TJugrGnPQGru9L88Ct.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/9/6/td/DCkGLdf0QdTq5NBaOzvWmvtEXkcF1uIvHJ7mUB3FleXqEmLyuE6EZHqTAShjWAI1684Cbhcc03wvRfdWebenipNOb84sHwbzB7QLcqX9GCeiN5Ok4zRVEGZYolar.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
@@ -11,6 +11,6 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='Wind Turbines 3', dst_path='~/dtools/datasets/Wind Turbines 3.tar')
+dtools.download(dataset='Wind Turbines (Overhead Imagery by Duke Dataplus2020)', dst_path='~/dtools/datasets/Wind Turbines (Overhead Imagery by Duke Dataplus2020).tar')
 ```
 The data in original format can be 🔗[downloaded here](https://figshare.com/ndownloader/files/24121976)
