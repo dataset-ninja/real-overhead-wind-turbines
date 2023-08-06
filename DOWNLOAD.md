@@ -1,4 +1,4 @@
-Dataset **Overhead Imagery of Wind Turbines (by Duke Dataplus2020)** can be downloaded in Supervisely format:
+Dataset **Overhead Imagery of Wind Turbines (by Duke Dataplus2020)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
  [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/R/j/KA/fkBUGCoQPjbxcqx9YwmmluhFczb1XjMrHmzyVBDfxcssrtsKNfCRdGZuV6t1ftyEGTmPuDPWLlDNOBdLOs8kLUKXLqdhUi0tyt9Hbkqq6E0LFW68x0fQg6VGxteh.tar)
 
@@ -11,6 +11,8 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='Overhead Imagery of Wind Turbines (by Duke Dataplus2020)', dst_path='~/dtools/datasets/Overhead Imagery of Wind Turbines (by Duke Dataplus2020).tar')
+dtools.download(dataset='Overhead Imagery of Wind Turbines (by Duke Dataplus2020)', dst_dir='~/dataset-ninja/')
 ```
-The data in original format can be 🔗[downloaded here](https://figshare.com/ndownloader/files/24121976)
+Make sure not to overlook the [python code example](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project) available on the Supervisely Developer Portal. It will give you a clear idea of how to effortlessly work with the downloaded dataset.
+
+The data in original format can be [downloaded here](https://figshare.com/ndownloader/files/24121976)
