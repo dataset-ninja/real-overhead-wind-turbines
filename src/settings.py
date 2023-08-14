@@ -15,6 +15,8 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "Overhead Imagery of Wind Turbines (by Duke Dataplus2020)"
 PROJECT_NAME_FULL: str = "Overhead Imagery of Wind Turbines"
+HIDE_DATASET = False  # set False when 100% sure about repo quality
+
 
 ##################################
 # * After uploading to instance ##
