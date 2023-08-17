@@ -1,3 +1,3 @@
 # Overhead Imagery of Wind Turbines
 
-Wind Turbines 3 is a dataset for object detection tasks.
+Overhead Imagery of Wind Turbines (by Duke Dataplus2020) is a dataset for object detection tasks.
