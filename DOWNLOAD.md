@@ -1,6 +1,6 @@
 Dataset **Overhead Imagery of Wind Turbines (by Duke Dataplus2020)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/x/d/i2/NIwPFiysSyBtwokHUnlACLk0IQddaORa5k2JGwazkgsym4jmgh9BkyHycJiuFcTgGGFjje3uKd9y7fhi33is87LriumLXLBDQ60HjofFItGmhERxvlQaktJ22WYw.tar)
+ [Download](https://www.dropbox.com/scl/fi/5q7kwojai8hskk74g5gdr/overhead-imagery-of-wind-turbines-by-duke-dataplus2020-DatasetNinja.tar?rlkey=9jp3uzy5j9g2vu89341eqxket&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
